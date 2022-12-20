@@ -1,0 +1,9 @@
+﻿  moc graphwidget.h
+  edge.cpp
+  graphwidget.cpp
+  main.cpp
+  Node.cpp
+D:\DevelopProjects\NodeMap\NodeMap\NodeMap\graphwidget.h(4,10): fatal error C1083: Cannot open include file: 'QtGui/QGraphicsView': No such file or directory (compiling source file graphwidget.cpp)
+D:\DevelopProjects\NodeMap\NodeMap\NodeMap\Node.cpp(1,10): fatal error C1083: Cannot open include file: 'QGraphicsScene': No such file or directory
+D:\DevelopProjects\NodeMap\NodeMap\NodeMap\edge.h(4,10): fatal error C1083: Cannot open include file: 'QGraphicsItem': No such file or directory (compiling source file edge.cpp)
+D:\DevelopProjects\NodeMap\NodeMap\NodeMap\graphwidget.h(4,10): fatal error C1083: Cannot open include file: 'QtGui/QGraphicsView': No such file or directory (compiling source file main.cpp)
